@@ -10,9 +10,9 @@ int main() {
    // break;
     }
   else{
-    cout<<"no is prime no";
+    cout<<"no is prime number";
     }
-   // break;
+    break;
   }
   return 0;
 }
